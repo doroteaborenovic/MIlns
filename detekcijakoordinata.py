@@ -12,7 +12,7 @@ import os  # Biblioteka za rad sa fajl sistemom (provera postojanja fajla)
 # 2. DEFINISANJE PUTANJA I PREUZIMANJE MODELA
 # ---------------------------------------------------------
 # Putanja do ulazne slike na računaru
-PUTANJA_SLIKE = r"C:\Users\PC\gitara\MI2026lns\poza3.jpg"
+PUTANJA_SLIKE = r"C:\Users\PC\gitara\MI2026lns\latinoposeslika.webp"
 
 # Ime pod kojim će se model sačuvati lokalno
 MODEL_FAJL = "keypoints_detection.task"
