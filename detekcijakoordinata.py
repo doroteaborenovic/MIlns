@@ -1,6 +1,4 @@
-# ---------------------------------------------------------
-# 1. UVOZ POTREBNIH BIBLIOTEKA
-# ---------------------------------------------------------
+#biblipteke koje se koriste u ovom programu
 import cv2  # OpenCV biblioteka za obradu slike i prikaz prozora
 import mediapipe as mp  # MediaPipe radni okvir za zadatke mašinskog učenja
 from mediapipe.tasks import python  # Python API za MediaPipe Tasks
